@@ -1,0 +1,8 @@
+.f{
+    text-decoration: none;
+    color: gray;
+}
+
+.f:hover{
+    color: whitesmoke;
+}

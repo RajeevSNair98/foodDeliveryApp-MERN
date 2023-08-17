@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Lora&family=Montserrat:wght@300&family=Poppins:wght@500;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins",sans-serif;
+}
+
+
+.product-link{
+  text-decoration: none !important;
+  color: black;
+}
